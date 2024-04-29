@@ -1,0 +1,37 @@
+{
+  "general": {
+    
+  },
+  "sections": {
+    "header": {
+    
+    }
+  },
+  "localization": {
+    "country_label": "País/región",
+    "language_label": "Idioma",
+    "update_language": "Actualizar idioma",
+    "update_country": "Actualizar país/región",
+    "search": "Buscar",
+    "popular_countries_regions": "Países o regiones populares",
+    "country_results_count": "{{ count }} países o regiones encontrados"
+  },
+  "accessibility": {
+    "skip_to_text": "Ir directamente al contenido",
+    "close": "Cerrar",
+    "unit_price_separator": "por",
+    "vendor": "Proveedor:",
+    "error": "Error",
+    "refresh_page": "Al seleccionar una opción, se actualiza toda la página.",
+    "link_messages": {
+      "new_window": "Se abre en una nueva ventana.",
+      "external": "Se abre el sitio web externo."
+    },
+    "loading": "Cargando...",
+    "skip_to_product_info": "Ir directamente a la información del producto",
+    "total_reviews": "reseñas totales",
+    "star_reviews_info": "{{ rating_value }} de {{ rating_max }} estrellas",
+    "collapsible_content_title": "Contenido desplegable",
+    "complementary_products": "Productos complementarios"
+  }
+}

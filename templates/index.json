@@ -1,0 +1,44 @@
+{
+  "sections": {
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Principal",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Información para que aparezca en el inicio<\/p>"
+          }
+        },
+        "text_nNrpEM": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>otroooo<\/strong><\/h2>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "text_nNrpEM"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "rich_text"
+  ]
+}
